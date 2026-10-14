@@ -102,7 +102,7 @@ st.markdown("""
         color: #B45309 !important;
     }
     </style>
-""", unsafe_allow_allowed_html=True)
+""", unsafe_allow_html=True)
 
 # 3. MBTI - 포켓몬 데이터베이스 (PokeAPI 공식 이미지 링크 사용)
 POKEMON_DATA = {
